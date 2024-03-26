@@ -1,14 +1,12 @@
-*[
-  margin: 0;
-  padding 0;
-]
-
 body {
-    background: #00040a
+    
 }
 
 #banner {
     width: 100%;
+  .principal[
+    background-color:#c93702;
+    padding:30px;
 }
 
 h1 {
