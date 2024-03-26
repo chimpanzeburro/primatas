@@ -24,3 +24,6 @@ p {
 em strong {
     color: #f0380e;
 }
+.itens[
+font-style: italic;
+]
