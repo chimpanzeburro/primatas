@@ -8,11 +8,12 @@ body {
     background-color:#c93702;
     padding:30px;
 }
-
-h1 {
-    text-align: center
+.titulo-principal{
+    padding-left:20px;
 }
-
+.titulo-secundario{
+    text-align: center;
+}
 p {
     text-align: center;
 }
