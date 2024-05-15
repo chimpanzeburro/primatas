@@ -2,7 +2,6 @@ header {
   background: #BBBBBB;
   padding: 20px 0;
 }
-
 .caixa {
   position: relative;
   width: 940px;
@@ -52,7 +51,7 @@ nav a:hover {
 }
 
 .produtos li:hover {
-  border-color: green;
+  border-color: #FFFFFF;
 }
 
 .produtos li:active {
@@ -78,14 +77,15 @@ nav a:hover {
   margin-top: 10px;
 }
 footer{
-  text-align: center;
-  background: url("bg.jpg");
+  text-align:center;
+  background:url("bg.jpg");
+  background:#823101 ;
   padding: 40px 0;
 }
 .copyright{
-  color: #FFFFFF;
-  font-size: 13px;
-  margin: 20px 0 0;
+  color:#FFFFFF;
+  font-size:13px;
+  margin:20px 0 0;
 }
 main{
   width: 940px;
@@ -127,5 +127,4 @@ form submit{
   background:darkorange;
   transform:scale(1.2);
 }
-
 
