@@ -130,4 +130,53 @@ form submit{
   background:darkorange;
   transform:scale(1.2);
 }
+body {}
 
+#banner {
+  width: 100%;
+}
+
+.principal {
+  background: #FFFFFF;
+  podding: 30px;
+}
+
+.titulo-principal {
+  padding-left: 20px;
+}
+
+.titulo-secundario {
+  text-align: center;
+
+ } p {
+    text-align: center;
+    font-size: 20px;
+  }
+
+  em stong {
+    color: green;
+  }
+
+  #missao {
+    font-size: 30px;
+  }
+
+  .itens {
+    font-style: italic;
+  }
+
+  .beneficios {
+    background: FFFFFF;
+    podding: 20px;
+  }
+
+  ul {
+    display: inline-block;
+    Vertical-aling: top;
+    width: 20%;
+    margin-rigth: 15%;
+  }
+
+  .imagem-beneficios {
+    width: 50%
+  }
